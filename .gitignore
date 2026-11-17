@@ -1,0 +1,22 @@
+# Anbientes virtuais
+
+
+venv/
+.venv/
+env
+
+# configuracoes privadas
+.env
+.env.*
+
+# bases de dados
+*.db
+*.sqlite
+*.sqlite3
+
+# ficheiros temporarias python
+__pycache__/
+*.pyc
+
+# configuracoes do pycharm
+.idea/
